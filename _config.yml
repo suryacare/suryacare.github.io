@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+gems: [jekyll-paginate, jekyll-gist]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Surya Care
+tagline:          'All you need to know about caring for seniors'
+description:      'All you need to know about caring for seniors'
+url:              suryacare.github.io
+baseurl:          /
+
+author:
+  name:           'Deepak Bhaskaran'
+  url:            http://suryacare.com
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/suryacare/suryacare.github.io
